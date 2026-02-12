@@ -1,18 +1,35 @@
 # Innocent Niyobuhungiro
 
-Student in AI / Software Development. I build practical projects with clean documentation, Git workflows, and a focus on real-world impact.
+AI / Software Development student focused on building practical projects with clean documentation and solid Git collaboration workflows.
 
-## Highlights
-- Java • Python • SQL
-- Git/GitHub • JDBC • MySQL/PostgreSQL
-- Documentation-first approach (README, setup steps, usage)
+- **Languages:** Java, Python, SQL
+- **Tools:** Git/GitHub, VS Code
+- **Interests:** Full-stack apps, data/AI projects, automation
 
 ## Featured Project
-### 🎟️ Cinema Reservation System (Java)
-A ticket reservation system (console-based) connected to a database (DAO pattern) with PDF ticket generation.
+### 🎬 Cinema Reservation (Web App)
+Full-stack cinema booking app with REST API + EJS pages, JWT authentication, and roles (client/admin).
 
-Repo: https://github.com/VivanBoy/cinema-reservation
+➡️ Repo: https://github.com/VivanBoy/cinema-reservation
+
+## Other Projects
+- Check my pinned repositories below for more.
 
 ## Contact
-GitHub: https://github.com/VivanBoy
-Portfolio (GitHub Pages): (coming soon)
+- GitHub: https://github.com/VivanBoy
+
+---
+
+# (FR) Innocent Niyobuhungiro
+
+Étudiant en IA / développement logiciel. J’aime construire des projets concrets avec une documentation claire et de bonnes pratiques Git/GitHub.
+
+- **Langages :** Java, Python, SQL  
+- **Outils :** Git/GitHub, VS Code  
+- **Intérêts :** applications web, projets data/IA, automatisation  
+
+## Projet mis en avant
+### 🎬 Cinéma – Réservation (Application Web)
+Application complète de réservation (API REST + EJS), authentification JWT et rôles (client/admin).
+
+➡️ Repo : https://github.com/VivanBoy/cinema-reservation
