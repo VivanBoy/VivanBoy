@@ -1,16 +1,18 @@
-## Hi there 👋
+# Innocent Niyobuhungiro
 
-<!--
-**VivanBoy/VivanBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student in AI / Software Development. I build practical projects with clean documentation, Git workflows, and a focus on real-world impact.
 
-Here are some ideas to get you started:
+## Highlights
+- Java • Python • SQL
+- Git/GitHub • JDBC • MySQL/PostgreSQL
+- Documentation-first approach (README, setup steps, usage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+### 🎟️ Cinema Reservation System (Java)
+A ticket reservation system (console-based) connected to a database (DAO pattern) with PDF ticket generation.
+
+Repo: https://github.com/VivanBoy/cinema-reservation
+
+## Contact
+GitHub: https://github.com/VivanBoy
+Portfolio (GitHub Pages): (coming soon)
