@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="Banner" width="100%" />
+
 # Innocent Niyobuhungiro
 
 AI / Software Development student focused on building practical projects with clean documentation and solid Git collaboration workflows.
