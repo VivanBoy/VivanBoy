@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/VivanBoy/VivanBoy/main/assets/banner.svg" width="100%" alt="Banner" />
 
 # Innocent Niyobuhungiro
 
